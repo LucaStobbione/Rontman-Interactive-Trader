@@ -3,7 +3,7 @@
 This project is a **partial automation trading script** developed for the **Rotman Interactive Trader (RIT)** simulator, specifically for the **Dynamic Order Arrival (LT3) case**.
 
 **Case Description**:  
-https://rotmanfrtl.github.io/RIT%20-%20Case%20Brief%20-%20LT3%20-%20Dynamic%20Order%20Arrival.pdf  
+[Dynamic Order Arrival Case Brief (LT3)](https://rotmanfrtl.github.io/RIT%20-%20Case%20Brief%20-%20LT3%20-%20Dynamic%20Order%20Arrival.pdf)
 
 **Rotman Interactive Trader Platform**:  
 https://rotmaninteractive.trading/
